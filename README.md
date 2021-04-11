@@ -6,3 +6,5 @@ This repository contains a Windows Forms Application(.NET).
 * Update
 * Delete
 * ...
+
+More details about this project, you can read in file Requirements.pdf.
